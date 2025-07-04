@@ -1,0 +1,1 @@
+# EuroSAT_Land-Cover_Classification_Using_FTVT
